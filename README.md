@@ -1,6 +1,4 @@
-# Calculadora de Interes Compuesto construido con React
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aplicación para calcular el Interes Compuesto construido con React.
 
 ## Comandos para instalar las librerias:
 
